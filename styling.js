@@ -7,7 +7,7 @@ if (document.body.textContent.includes('Seekers')) {
 	link.id   = cssId;
 	link.rel  = 'stylesheet';
 	link.type = 'text/css';
-	link.href = './styles.css';
+	link.href = "url('https://raw.githubusercontent.com/KeyZox71/seekersrealcolor/main/styling.js')";
 	link.media = 'all';
 	head.appendChild(link);
   } else {
