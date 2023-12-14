@@ -1,0 +1,19 @@
+.coalition-flag--flag {
+    fill: #D950FF !important;
+}
+.coalition-span {
+    color: #D950FF !important;
+}
+#metrics  li {
+    background-color: #d950ff !important;
+}
+#metrics  ol {
+  border-left: 1px solid rgb(217, 50, 255);
+}
+.home-banner {
+	background-image: "seekers-login.png";
+}
+.progress-bar {
+    background: #d950ff !important;
+}
+

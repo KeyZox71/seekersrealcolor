@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Seekers>>",
+  "description": "Real Seekers get real color",
+  "version": "0.1",
+  "content_scripts": [{
+	"js": ["styling.js"],
+    "matches": ["https://profile.intra.42.fr/*"]
+  }]
+}
